@@ -1,6 +1,5 @@
-# Vanilla JavaScript App
+# AVD URL Redirect web app
 
 
-[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) allows you to easily build JavaScript apps in minutes. Use this repo with the [quickstart](https://docs.microsoft.com/azure/static-web-apps/getting-started?tabs=vanilla-javascript) to build and customize a new static site.
+[Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview) is a service that automatically builds and deploys full stack web apps to Azure from a code repository. Use this repo with the [quickstart](https://github.com/george-markou/avdurlredirect/generate) to build and customize a new static site that will redirect http requests to the AVD service.
 
-This repo is used as a starter for a _very basic_ HTML web application using no front-end frameworks.
